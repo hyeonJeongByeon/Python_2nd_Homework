@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#변현정 1976185
+#Hyeon Jeong Byeon
 
 import time
 
